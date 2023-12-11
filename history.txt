@@ -1,0 +1,500 @@
+  162  cd covers
+  163  ls
+  164  cd ..
+  165  ls
+  166  mkdir xbox
+  167  ls
+  168  ls
+  169  mkdir Sony
+  170  ls
+  171  mkdir Nintendo
+  172  ls
+  173  mkdir Sega
+  174  ls
+  175  cd Nintendo
+  176  ls
+  177  mkdir gameboy
+  178  ls
+  179  cd ..
+  180  ls
+  181  cd Sony
+  182  mkdir Playstation4
+  183  ls
+  184  mkdir Playstation5
+  185  ls
+  186  cd ..
+  187  ls
+  188  cd Microsoft
+  189  ls
+  190  mkdir Xbox360
+  191  mkdir Xbox
+  192  ls
+  193  cd ..
+  194  ls
+  195  cd Nintendo
+  196  ls
+  197  mkdir GameCube
+  198  ls
+  199  cd ..
+  200  ls
+  201  cd Sega
+  202  ls
+  203  mkdir Dreamcast
+  204  ls
+  205  cd ..
+  206  ls
+  207  cd Nintendo =
+  208  cd Nintendo
+  209  ls
+  210  mkdir console portable
+  211  mkdir console Salon
+  212  ls
+  213  mv GameCube/Salon
+  214  mv GameCube Salon
+  215  ls
+  216  mv gameboy portable
+  217  ls
+  218  cd Salon
+  219  ls
+  220  cd ..
+  221  cd ..
+  222  ls
+  223  cd covers
+  224  ls
+  225  ls *xbox
+  226  mv xbox_needforspeedunderground2.jpg ex00
+  227  mv xbox_jetsetradiofuture_2.jpg ex00
+  228  ls
+  229  mv xbox_halo2.jpg ex00
+  230  mv xbox_halo_2.jpg ex00
+  231  mv deadtorights.jpg ex00
+  232  mv xbox_deadtorights.jpg ex00
+  233  mv xbox_deadoralive3.jpg ex00
+  234  ls
+  235  mv xbox_defjamfightforny.jpg
+  236  mv xbox_defjamfightforny.jpg ex00
+  237  ls
+  238  cd ..
+  239  ls
+  240  cd ..
+  241  ls
+  242  ex00
+  243  cd ex00
+  244  ls
+  245  mv xbox_defjamfightforny.jpg Microsoft
+  246  ls
+  247  ls
+  248  cd ..
+  249  cd ..
+  250  git clone https://github.com/GOURINI-Ethan/exam_shell_aglo_b1.git~
+  251  git clone https://github.com/GOURINI-Ethan/exam_shell_aglo_b1.git
+  252  ls
+  253  cd exam_shell_algo_b1
+  254  cd exam_shell_aglo_b1
+  255  ls
+  256  cd ex00
+  257  ls
+  258  cd covers
+  259  ls
+  260  cat ex00
+  261  git checkout
+  262  ls
+  263  git checkout
+  264  git checkout
+  265  ls
+  266  cd ..
+  267  ls
+  268  cd covers/
+  269  ls
+  270  rm -rf ex00 
+  271  git pull
+  272  cd ..
+  273  ls
+  274  cd ..
+  275  ls
+  276  cd ..
+  277  ls
+  278  rm -rf exam_shell_aglo_b1/
+  279  git clone https://github.com/GOURINI-Ethan/exam_shell_aglo_b1.git
+  280  cd exam_shell_aglo_b1/
+  281  ls
+  282  cd ex00
+  283  ls
+  284  ls
+  285  cd covers/
+  286  mkdir constructeurs sony nintendo microsoft sega
+  287  ls
+  288  ls
+  289  clear
+  290  ls
+  291  mv microsoft/ constructeurs/
+  292  mv nintendo/ constructeurs/
+  293  mv sega/ constructeurs/
+  294  mv sony/ constructeurs/
+  295  ls
+  296  ls constructeurs/
+  297  mv gameboy.pokmonred.jpg ./constructeurs/nintendo/
+  298  ls
+  299  ls constructeurs/nintendo/
+  300  mv gb.pokemonblue_eu.jpg ./constructeurs/nintendo/
+  301  mv gb_pokemonblue_eu.jpg ./constructeurs/nintendo/
+  302  mv gb_pokemongreen_3.jpg ./constructeurs/nintendo/
+  303  mv gb_pokemonyellow_au.jpg ./constructeurs/nintendo/
+  304  mv gbc_pokemongold.jpg ./constructeurs/nintendo/
+  305  ls
+  306  mv gc_mariokartdoubkedash.jpg ./constructeurs/nintendo/
+  307  mv gc_mariokartdoubledash.jpg ./constructeurs/nintendo/
+  308  mv gc_supermariosunshine.jpg ./constructeurs/nintendo/
+  309  ls
+  310  cd..
+  311  cd constructeurs/
+  312  ls
+  313  cd nintendo/
+  314  cd
+  315  ls
+  316  cd ..
+  317  cd ..
+  318  cd ..
+  319  cd D:/ Algo
+  320  cd D:
+  321  cd Algo
+  322  cd Ican
+  323  cd Algo
+  324  ls
+  325  cd exam_shell_aglo_b1/
+  326  ls
+  327  cd ex00
+  328  ls
+  329  cd covers
+  330  ls
+  331  cd constructeurs/
+  332  cd nintendo/
+  333  ls
+  334  mkkdir Portable
+  335  mkdir Portable
+  336  mkdir Salon
+  337  cd Portable
+  338  mkdir gameboy
+  339  ls
+  340  cd ..
+  341  ls
+  342  mv gameboy.pokmonred.jpg ./Portable
+  343  ls
+  344  cd Portable/
+  345  ls
+  346  cd ..
+  347  mv gb_pokemonblue_eu.jpg ./Portable
+  348  ls
+  349  mv gb_pokemongreen_3.jpg ./Portable
+  350  mv gb_pokemonyellow_au.jpg ./Portable
+  351  mv gbc_pokemongold.jpg ./Portable
+  352  ls
+  353  mv gc_mariokartdoubledash.jpg ./Salon
+  354  mv gc_supermariosunshine.jpg ./Salon
+  355  ls
+  356  mv
+  357  cd Salon
+  358  ls
+  359  mkdir GameCube
+  360  ls
+  361  mv gc_mariokartdoubledash.jpg ./GameCube/
+  362  ls
+  363  mv gc_supermariosunshine.jpg ./ GameCube/
+  364  mv gc_supermariosunshine.jpg ./GameCube/
+  365  ls
+  366  cd GameCube/
+  367  ls
+  368  cd ..
+  369  ls
+  370  cd ..
+  371  ls
+  372  cd Portable/
+  373  ls
+  374  mv gameboy.pokmonred.jpg ./gameboy
+  375  cd gb_pokemonblue_eu.jpg ./gameboy/
+  376  ls
+  377  mv gb_pokemonblue_eu.jpg ./gameboy/
+  378  ls
+  379  mv gb_pokemongreen_3.jpg ./gameboy/
+  380  ls
+  381  mv gb_pokemonyellow_au.jpg ./gameboy/
+  382  mv gbc_pokemongold.jpg ./gameboy/
+  383  ls
+  384  cd gameboy/
+  385  ls
+  386  cd ..
+  387  cd ..
+  388  ls
+  389  cd ..
+  390  ls
+  391  cd ..
+  392  ls
+  393  mv playstation_4.assassinscreedodyssey.jpg ./constructeurs/
+  394  ls
+  395  mv playstation_4.unchartedthelostlegacy.jpg ./constructeurs/ 
+  396  mv playstation_4.watchdogs2.jpg ./constructeurs/
+  397  ls
+  398  mv ps4_fifa14.jpg ./constructeurs/
+  399  mv playstation_5.assassinscreedvalhalla.jpg ./constructeurs/
+  400  mv playstation_5.farcry6.jpg ./constructeurs/
+  401  mv playstation_5.residentevilvillage_.jpg ./constructeurs/
+  402  ls
+  403  cd constructeurs/
+  404  ls
+  405  mv sony
+  406  cd sony/
+  407  ls
+  408  mkdir PS4
+  409  mkdir PS5
+  410  ls
+  411  cd ..
+  412  ls
+  413  mv playstation_4.assassinscreedodyssey.jpg ./sony
+  414  mv playstation_4* ./sony
+  415  ls
+  416  mv playstation_5* ./sony
+  417  ls
+  418  mv ps4_fifa14.jpg ./ sony
+  419  mv ps4_fifa14.jpg ./sony
+  420  ls
+  421  cd sony/
+  422  ls
+  423  mv playstation_4* ./PS4
+  424  ls
+  425  mv playstation_5* ./PS5
+  426  ls
+  427  mv ps4_fifa14.jpg ./PS4
+  428  ls
+  429  cd..
+  430  cd ..
+  431  ls
+  432  cd ..
+  433  ls
+  434  mv xbox* ./constructeurs/
+  435  ls
+  436  mv constructeurs/
+  437  cd constructeurs/
+  438  ls
+  439  cd microsoft/
+  440  mkdir xbox
+  441  mkdir xbox360
+  442  ls
+  443  cd ..
+  444  ls
+  445  mv xbox* ./microsoft/
+  446  ls
+  447  cd microsoft/
+  448  ls
+  449  mv xbox_360.fableiii.jpg ./xbox360
+  450  ls
+  451  mv xbox* ./xbox
+  452  mv xbox_d* ./xbox/
+  453  mv xbox_deadoralive3.jpg ./xbox/
+  454  ls
+  455  xbox
+  456  cd xbox
+  457  ls
+  458  mv xbox360 ./microsoft
+  459  ls
+  460  ls
+  461  cd ..
+  462  ls
+  463  cd ..
+  464  ls
+  465  cd ..
+  466  ls
+  467  mv x360* ./constructeurs/
+  468  ls
+  469  mv dc* ./constructeurs/
+  470  ls
+  471  cd constructeurs/
+  472  ls
+  473  mv x360* ./microsoft/
+  474  ls
+  475  cd microsoft/
+  476  ls
+  477  mv x360* ./Xbox360/
+  478  ls
+  479  cd ..
+  480  ls
+  481  mv dc* ./sega/
+  482  ls
+  483  cd sega/
+  484  ls
+  485  mkdir Dreamcast
+  486  mv dc* ./Dreamcast/
+  487  ls
+  488  cd ..
+  489  ls
+  490  cd ..
+  491  cd ..
+  492  ls
+  493  cd LL
+  494  cd ..
+  495  ls
+  496  git add ex00
+  497  git add ex00
+  498  git commit -m " Exo 00 modification"
+  499  git status
+  500  git push
+  501  cd ..
+  502  cd ..
+  503  cd..
+  504  cd ..
+  505  ls
+  506  cd ..
+  507  ls
+  508   cd D:
+  509  cd Ican
+  510  cd Algo
+  511  ls
+  512  cd Exo
+  513  ls
+  514  ls
+  515  cd ..
+  516  ls
+  517  cd exam_shell_aglo_b1/
+  518  ls
+  519  cd ex
+  520  cd ex00
+  521  ls
+  522  cd covers/
+  523  ls
+  524  cd constructeurs/
+  525  ls
+  526  cd microsoft/
+  527  ls
+  528  cd ..
+  529  cd ..
+  530  cd ..
+  531  cd ..
+  532  ls
+  533  cd ex01
+  534  ls
+  535  cd dialogue.txt 
+  536  man head
+  537  man ls
+  538  man
+  539  ls
+  540  vim dialogue.txt 
+  541  head dialogue.txt >first_command.sh
+  542  ls
+  543  vim first_command.sh 
+  544  tail -n 10 dialogue.txt >second_command.sh
+  545  vim second_command.sh 
+  546  head -c 100 dialogue.txt >third_command.sh
+  547  vim third_command.sh 
+  548  history
+  549  git add ex01
+  550  cd ..
+  551  git add ex01
+  552  git commit -m "Exo 01 Modification"
+  553  git status
+  554  git push
+  555  ls
+  556  cd ex02
+  557  ls
+  558  cd data.csv 
+  559  ls
+  560  vim data.csv 
+  561  vim data.csv 
+  562  grep -i UX / -i Lyon / -c 2019 >ux_lyon_2019.csv
+  563  ls
+  564  vim ux_lyon_2019.csv 
+  565  grep -i UX Lyon / -c 2019 >ux_lyon_2019.csv
+  566  ls
+  567  grep -i UX Lyon / -c 2019  gata.csv >ux_lyon_2019.csv
+  568  grep -i ux lyon data.csv /grep -c 2019 data.csv >ux_lyon_2019.csv 
+  569  grep -i ux data.csv/ grep -i Lyon data.csv / grep -c 2019 data.csv >ux_lyon_2019.csv 
+  570  vim ux_lyon_2019.csv 
+  571  vim data.csv 
+  572  grep ux data.csv > text.txt
+  573  ls
+  574  grep -i Ux text.txt
+  575  grep -i Ux data >text.txt 
+  576  grep -i ux data.csv > t1.txt
+  577  grep -i lyon t1.txt > t2.txt
+  578  ls
+  579  grep -c 2019 t2.txt > ux_lyon_2019.csv 
+  580  vim ux_lyon_2019.csv 
+  581  grep -i gameprogramming data.csv >tx1.txt
+  582  grep -i 2021 tx1.txt > GameProgramming_2021.csv
+  583  vim GameProgramming_2021.csv 
+  584  grep -c Susan data.csv > Susan.csv 
+  585  vim Susan.csv 
+  586  grep -i Lille data.csv > t0.txt
+  587  vim t0.txt 
+  588  grep -i @icanschool.com t0.txt > mails_Lille.csv
+  589  vim mails_Lille.csv 
+  590  grep -i lille data.csv >t1.txt
+  591  vim t1.txt 
+  592  grep -i email t1.txt > t1.txt 
+  593  grep -i email t1.txt > t2.txt 
+  594  vim t2.txt 
+  595  grep -i lille data.csv >t1.txt
+  596  grep -l @icanschool.com ./*
+  597  grep -l @icanschool.com ./* > t2.txt
+  598  vim t2.txt 
+  599  ls
+  600  grep -i lille data.csv > t1.txt
+  601  vim t1.txt 
+  602  grep -r @icanschool.com > t2.txt
+  603  grep -r @icanschool.com t1.txt > t2.txt
+  604  vim t2.txt 
+  605  awk -F',' '{print$3}' t1.txt > mails_Lille.csv
+  606  vim mails_Lille.csv 
+  607  grep -v Bordeaux data.csv > m.txt
+  608  vim m
+  609  vim m.txt
+  610  awk -F',' '{print$3}' m.txt > mails_GameDesign_Lyon_Paris_Lille.csv
+  611  vim mails_GameDesign_Lyon_Paris_Lille.csv 
+  612  grep -i communication data.csv > c1.txt
+  613  vim c1.txt 
+  614  grep -i 2023 c1.txt > c2.txt
+  615  vim c2.txt 
+  616  grep -i 2023 c1.txt > Communication_2023.csv
+  617  vim Communication_2023.csv 
+  618  grep -c 2023 c1.txt > Communication_2023.csv
+  619  vim Communication_2023.csv 
+  620  cd ..
+  621  git add ex02/
+  622  history
+  623  ls
+  624  cd ex03
+  625  ls
+  626  touch bonjour.sh
+  627  ls
+  628  vim bonjour.sh 
+  629  vim bonjour.sh 
+  630  $ ./bonjour.sh 
+  631  ;/bonjour.sh
+  632  bonjour.sh
+  633  ./bonjour
+  634  ./bonjour.sh
+  635  vim bonjour.sh 
+  636  ./bonjour.sh
+  637  vim bonjour.sh 
+  638  ./bonjour.sh
+  639  vim bonjour.sh 
+  640  ./bonjour.sh
+  641  vim bonjour.sh 
+  642  ./bonjour.sh
+  643  vim bonjour.sh 
+  644  ./bonjour.sh
+  645  vim bonjour.sh 
+  646  ./bonjour.sh
+  647  vim bonjour.sh 
+  648  ./bonjour.sh
+  649  vim bonjour.sh 
+  650  ./bonjour.sh
+  651  vim bonjour.sh 
+  652  ./bonjour.sh
+  653  vim bonjour.sh 
+  654  ./bonjour.sh
+  655  vim bonjour.sh 
+  656  ./bonjour.sh
+  657  vim bonjour.sh 
+  658  ./bonjour.sh
+  659  cd ..
+  660  ls
+  661  history > history.txt
